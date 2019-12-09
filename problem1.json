@@ -1,0 +1,357 @@
+{
+    "switchs": [
+        {
+            "position": {
+                "x": 10,
+                "y": 30
+            },
+            "unmatchedPackets": 999
+        },
+        {
+            "position": {
+                "x": 50,
+                "y": 140
+            },
+            "unmatchedPackets": 900
+        },
+         {
+            "position": {
+                "x": 60,
+                "y": 30
+            },
+            "unmatchedPackets": 800
+        },
+         {
+            "position": {
+                "x": 90,
+                "y": 75
+            },
+            "unmatchedPackets": 700
+        },
+         {
+            "position": {
+                "x": 115,
+                "y": 35
+            },
+            "unmatchedPackets": 500
+        },
+         {
+            "position": {
+                "x": 150,
+                "y": 45
+            },
+            "unmatchedPackets": 400
+        },
+        {
+            "position": {
+                "x": 182,
+                "y": 100
+            },
+            "unmatchedPackets": 300
+        },
+        {
+            "position": {
+                "x": 220,
+                "y": 182
+            },
+            "unmatchedPackets": 200
+        },
+        {
+            "position": {
+                "x": 286,
+                "y": 362
+            },
+            "unmatchedPackets": 150
+        },
+        {
+            "position": {
+                "x": 290,
+                "y": 180
+            },
+            "unmatchedPackets": 250
+        },
+        {
+            "position": {
+                "x": 300,
+                "y": 200
+            },
+            "unmatchedPackets": 350
+        },
+        {
+            "position": {
+                "x": 340,
+                "y": 175
+            },
+            "unmatchedPackets": 450
+        },
+        {
+            "position": {
+                "x": 375,
+                "y": 40
+            },
+            "unmatchedPackets": 550
+        },
+        {
+            "position": {
+                "x": 300,
+                "y": 30
+            },
+            "unmatchedPackets": 650
+        },
+        {
+            "position": {
+                "x": 310,
+                "y": 100
+            },
+            "unmatchedPackets": 750
+        },
+        {
+            "position": {
+                "x": 335,
+                "y": 70
+            },
+            "unmatchedPackets": 850
+        },
+        {
+            "position": {
+                "x": 420,
+                "y": 420
+            },
+            "unmatchedPackets": 950
+        },
+        {
+            "position": {
+                "x": 475,
+                "y": 345
+            },
+            "unmatchedPackets": 120
+        },
+        {
+            "position": {
+                "x": 350,
+                "y": 410
+            },
+            "unmatchedPackets": 220
+        },
+        {
+            "position": {
+                "x": 490,
+                "y": 275
+            },
+            "unmatchedPackets": 250
+        },
+        {
+            "position": {
+                "x": 107,
+                "y": 280
+            },
+            "unmatchedPackets": 350
+        },
+        {
+            "position": {
+                "x": 361,
+                "y": 277
+            },
+            "unmatchedPackets": 300
+        },
+        {
+            "position": {
+                "x": 105,
+                "y": 333
+            },
+            "unmatchedPackets": 400
+        },
+        {
+            "position": {
+                "x": 43,
+                "y": 300
+            },
+            "unmatchedPackets": 450
+        },
+        {
+            "position": {
+                "x": 432,
+                "y": 277
+            },
+            "unmatchedPackets": 500
+        },
+        {
+            "position": {
+                "x": 460,
+                "y": 150
+            },
+            "unmatchedPackets": 350
+        },{
+            "position": {
+                "x": 314,
+                "y": 306
+            },
+            "unmatchedPackets": 700
+        },
+        {
+            "position": {
+                "x": 160,
+                "y": 304
+            },
+            "unmatchedPackets": 850
+        },
+        {
+            "position": {
+                "x": 30,
+                "y": 210
+            },
+            "unmatchedPackets": 550
+        },
+        {
+            "position": {
+                "x": 416,
+                "y": 83
+            },
+            "unmatchedPackets": 900
+        },
+        {
+            "position": {
+                "x": 204,
+                "y": 205
+            },
+            "unmatchedPackets": 800
+        },
+        {
+            "position": {
+                "x": 389,
+                "y": 345
+            },
+            "unmatchedPackets": 190
+        },
+        {
+            "position": {
+                "x": 450,
+                "y": 390
+            },
+            "unmatchedPackets": 400
+        },
+        {
+            "position": {
+                "x": 393,
+                "y": 312
+            },
+            "unmatchedPackets": 600
+        }
+    ],
+    "controllers": [
+        {
+            "cost": 1200,
+            "ports": 8,
+            "name": "Class A",
+            "processing": 2500,
+            "numberOfControllers": 20
+        },
+         {
+            "cost": 2500,
+            "ports": 32,
+            "name": "Class B",
+            "processing": 4000,
+            "numberOfControllers": 15
+        }
+    ],
+    "links": [
+        {
+            "bandwidth": 100,
+            "costPerMeter": 0.25,
+            "type": 1,
+            "propagationSpeed": 210000000
+        },
+ {
+            "bandwidth": 100,
+            "costPerMeter": 0.25,
+            "type": 1,
+            "propagationSpeed": 210000000
+        }
+    ],
+    "positions": [
+         {
+            "x": 10,
+            "y": 30
+        },
+        {
+            "x": 50,
+            "y": 140
+        },
+         {
+            "x": 60,
+            "y": 30
+        },
+         {
+            "x": 90,
+            "y": 75
+        },
+         {
+            "x": 115,
+            "y": 35
+        },
+        {
+            "x": 150,
+            "y": 45
+        },
+        {
+            "x": 182,
+            "y": 100
+        },
+        {
+            "x": 220,
+            "y": 182
+        },
+        {
+            "x": 286,
+            "y": 362
+        },
+        {
+            "x": 300,
+            "y": 200
+        },
+        {
+            "x": 340,
+            "y": 175
+        },
+        {
+            "x": 375,
+            "y": 40
+        },
+        {
+            "x": 300,
+            "y": 30
+        },
+        {
+            "x": 310,
+            "y": 100
+        },
+        {
+            "x": 335,
+            "y": 70
+        },
+        {
+            "x": 420,
+            "y": 420
+        },
+        {
+            "x": 475,
+            "y": 345
+        },
+        {
+            "x": 350,
+            "y": 410
+        },
+        {
+            "x": 490,
+            "y": 275
+        },
+        {
+            "x": 107,
+            "y": 280
+        }
+    ],
+    "packetSize": 150,
+    "maxLatency": 250,
+    "averageControllerProcessing": 0.01,
+    "propagationVelocity": 210000000
+}

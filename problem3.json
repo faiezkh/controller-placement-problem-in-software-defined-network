@@ -1,0 +1,118 @@
+{
+    "switchs": [
+        {
+            "position": {
+                "x": 10,
+                "y": 30
+            },
+            "unmatchedPackets": 999
+        },
+        {
+            "position": {
+                "x": 13,
+                "y": 50
+            },
+            "unmatchedPackets": 500
+        },
+         {
+            "position": {
+                "x": 2,
+                "y": 3
+            },
+            "unmatchedPackets": 200
+        },
+         {
+            "position": {
+                "x": 50,
+                "y": 90
+            },
+            "unmatchedPackets": 400
+        },
+         {
+            "position": {
+                "x": 52,
+                "y": 87
+            },
+            "unmatchedPackets": 600
+        },
+         {
+            "position": {
+                "x": 82,
+                "y": 82
+            },
+            "unmatchedPackets": 300
+        },
+         {
+            "position": {
+                "x": 86,
+                "y": 62
+            },
+            "unmatchedPackets": 850
+        }
+    ],
+    "controllers": [
+        {
+            "cost": 1200,
+            "ports": 8,
+            "name": "Class A",
+            "processing": 2500,
+            "numberOfControllers": 20
+        },
+         {
+            "cost": 2500,
+            "ports": 32,
+            "name": "Class B",
+            "processing": 4000,
+            "numberOfControllers": 15
+        }
+    ],
+    "links": [
+        {
+            "bandwidth": 100,
+            "costPerMeter": 0.25,
+            "type": 1,
+            "propagationSpeed": 210000000
+        },
+        {
+            "bandwidth": 1000,
+            "costPerMeter": 0.63,
+            "type": 2,
+            "propagationSpeed": 210000000
+        }
+    ],
+    "positions": [
+        {
+            "x": 50,
+            "y": 90
+        },
+         {
+            "x": 13,
+            "y": 50
+        },
+        {
+            "x": 2,
+            "y": 3
+        },
+         {
+            "x": 86,
+            "y": 62
+        },
+         {
+            "x": 52,
+            "y": 87
+        },
+         {
+            "x": 82,
+            "y": 82
+        },
+         {
+            "x": 10,
+            "y": 30
+        }
+    
+    ],
+    "packetSize": 150,
+    "maxLatency": 250,
+    "averageControllerProcessing": 0.01,
+    "propagationVelocity": 210000000
+}
